@@ -1,4 +1,4 @@
-# CMLS-Homework-1
+# CMLS-Homework-1-Group-8
 
 Implementation of a classifier able to predict the musical genre of a music piece.
 
